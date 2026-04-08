@@ -1,4 +1,4 @@
-# Hackbox 🔍
+# Hackbox 
 
 Script Bash d'automatisation des premières étapes d'un audit réseau.
 
